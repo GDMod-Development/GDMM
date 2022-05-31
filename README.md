@@ -1,4 +1,4 @@
-# GD-Mod
+# GeodeIDE
 
 ![logo](https://cdn.discordapp.com/attachments/973328285066985516/975235868971401216/GDM.png)
 <div>
